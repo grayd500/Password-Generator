@@ -47,7 +47,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: hsl(282, 100%, 28%);
   height: 2px;
 }
 
@@ -63,7 +63,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: hsl(282, 100%, 28%);
   height: 2px;
 }
 
