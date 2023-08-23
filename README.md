@@ -27,6 +27,10 @@ As an employee entrusted with sensitive data, I have a need to create strong pas
 - Starter code furnished by coding bootcamp: [Friendly Parakeet Repository](https://github.com/coding-boot-camp/friendly-parakeet).
 - Font family "Montserrat" sourced from [Google Fonts](https://fonts.google.com/specimen/Montserrat).
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Conclusion
 
 This coding assignment is a significant step towards mastering JavaScript application development. By crafting a dynamic and user-friendly password generator, I am honing skills and contributing to the enhancement of online security practices. Attention to detail, responsiveness, and design aesthetics will undoubtedly result in an exceptional end product.
